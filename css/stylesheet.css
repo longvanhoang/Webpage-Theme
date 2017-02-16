@@ -1,0 +1,15 @@
+.container content{
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 12px;
+	width: 100%;
+}
+
+footer{
+	background-color: gray;
+    color: white;
+    padding: 15px;
+}
+.col-md-4 sidebar{
+	height:500px;
+}
